@@ -2,19 +2,19 @@
 
 ### Задание 1
 
-Template Zadanie1 ![alt text](https://github.com/PeterFumelli/zabbix-1/blob/main/img/zabbix_main.png)
+Template Zadanie1 ![alt text](https://github.com/PeterFumelli/zabbix-2/blob/main/img/Zadanie1.png)
 
 
 ### Задание 2
 
-Latest data custom template ![alt text](https://github.com/PeterFumelli/zabbix-1/blob/main/img/zabbix_hosts.png)
+Latest data custom template ![alt text](https://github.com/PeterFumelli/zabbix-2/blob/main/img/Latest%20data%20zadanie1.png)
 
 
 ### Задание 3
 
-Hosts with 2 temlates ![alt text](https://github.com/PeterFumelli/zabbix-1/blob/main/img/zabbix_hosts.png)
+Hosts with 2 temlates ![alt text](https://github.com/PeterFumelli/zabbix-2/blob/main/img/host%20with%202%20templates.png)
 
 
 ### Задание 4
 
-Zabbix dashboard graphs ![alt text](https://github.com/PeterFumelli/zabbix-1/blob/main/img/zabbix_hosts.png)
+Zabbix dashboard graphs ![alt text](https://github.com/PeterFumelli/zabbix-2/blob/main/img/graphs.png)
