@@ -14,6 +14,8 @@ Latest data custom template ![alt text](https://github.com/PeterFumelli/zabbix-2
 
 Hosts with 2 temlates ![alt text](https://github.com/PeterFumelli/zabbix-2/blob/main/img/host%20with%202%20templates.png)
 
+Hosts ![alt text](https://github.com/PeterFumelli/zabbix-2/blob/main/img/host%20with%202%20templates.png)
+
 
 ### Задание 4
 
